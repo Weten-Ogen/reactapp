@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+}
+.header{
+  display: flex;
+  width: 70%;
+  height: 12vh;
+  margin: 15px auto;
+  background-color:rgb(105, 105, 209);
+  color: white;
+  font-size:2rem;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: baseline;
+  overflow: hidden;
+}
+.fa{
+  font-size: 2rem;
+}
+
+.title{
+  color:red;
+  margin: auto 0;
+}
+.searchInput{
+  font-size:1rem;
+  
+}

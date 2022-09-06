@@ -1,0 +1,25 @@
+.content{
+  width: 60%;
+  margin: 0 auto;
+}
+
+.item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.avatar{
+  display: flex;
+  padding: 20px;
+}
+.txt{
+  margin: 5px;
+  font-size: 1.5rem;
+}
+.commentCount{
+  font-size: 2rem;
+}
+.circle{
+  height: 59px;
+  border-radius: 50%;
+}
